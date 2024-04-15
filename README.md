@@ -5,5 +5,7 @@ computer with less power can execute larger spatial analyzes.
 
 The scripts are structured in the following groups:
 > Scripts for NetCDF-outputs which can be used in Leonardo-DataStudio
+
 > Scripts for EDX/EDT-outputs which can be used in Leonardo-DataStudio
+
 > A Script for QGIS to get the coordinates of predefined polygons in your model world 
